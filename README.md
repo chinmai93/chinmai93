@@ -1,6 +1,6 @@
 # Hi, I am Chinmai Trivedi (:computer::brain::mechanical_arm::beer:)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=chinmai93&color=orange)
 
 [![Linkdin Badge](https://img.shields.io/badge/-LinkdIn-0e76a8?style=flat-square&logo=Linkdin&logoColor=white)](https://linkedin.com/in/chinmai-trivedi)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ChinmaiTrivedi)
