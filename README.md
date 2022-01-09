@@ -15,4 +15,4 @@
 
 ![Chinmai's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmai93&count_private=true&show_icons=true&theme=gotham)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai93&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai93&layout=compact)](https://github.com/chinmai93/github-readme-stats)
