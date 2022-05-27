@@ -9,7 +9,6 @@
 
 * :airplane: I'm currently working as a Machine Learning Engineer at Rolls-Royce.
 * :man_student: I am persuing a Masters Degree in Computer Science with a concentration in Machine Learning @ Georgia Tech. 
-* Pronouns: He/him
 
 ## 👨‍💻 Github Stats
 
