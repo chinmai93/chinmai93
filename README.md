@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+page.;I+am+an+Engineer+and+Grad+Student.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-* :airplane: I'm currently working as a Machine Learning Engineer at Rolls-Royce.
+* :airplane: I'm currently working as a Technical Lead for R2 (rsquared) Facrtory at Rolls-Royce.
 * :man_student: I am persuing a Masters Degree in Computer Science with a concentration in Machine Learning @ Georgia Tech. 
 
 ## 👨‍💻 Github Stats
