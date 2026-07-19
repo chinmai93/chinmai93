@@ -1,4 +1,4 @@
-# Hi, I am Chinmai Trivedi (:computer::brain::mechanical_arm::beer:)
+# Hi, I am Chinmai Trivedi
 
 ![](https://komarev.com/ghpvc/?username=chinmai93&color=orange)
 
